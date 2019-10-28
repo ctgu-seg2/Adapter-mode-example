@@ -2,12 +2,13 @@
 #include <string>
 #include "MeshData.h"
 #include "Material.h"
+
 class Object
 {
 private:
-	string name;      //´¢´æÄ£ĞÍÃû×Ö
-	MeshData mesh;    //´¢´æÍø¸ñĞÅÏ¢
-	Material material;//´¢´æ²ÄÖÊĞÅÏ¢
+	string name;      // å¯¹è±¡åç§°
+	MeshData mesh;    // å¯¹è±¡ä¿ç•™çš„ä¸€ä»½ç½‘æ ¼æ•°æ®
+	Material material;// é™„åŠ åˆ°å¯¹è±¡çš„æè´¨
 public:
 	void Draw();
 public:
