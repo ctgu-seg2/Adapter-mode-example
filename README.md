@@ -8,6 +8,6 @@
 	* .h文件写类的声明
 		* 要包含所有用到的头文件，以及自定义类的头文件
 	* .cpp文件写函数的实现
-* 示例
-![](https://github.com/ctgu-seg2/AdapterModeExample/UML/AdapterPattern_v_001.png)
+* 
+![示例](https://github.com/ctgu-seg2/AdapterModeExample/blob/master/UML/AdapterPattern_v_001.png)
 
